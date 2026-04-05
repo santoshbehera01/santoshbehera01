@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar Behera</h1>
-<h3 align="center">B.Tech CSE Student | Aspiring Software Developer</h3>
+<h3 align="center">B.Tech CSE Student  💻  | Aspiring Software Developer  🚀</h3>
 
 <p align="center">
   I build real-world software, explore modern technologies, and focus on writing clean, efficient code.
