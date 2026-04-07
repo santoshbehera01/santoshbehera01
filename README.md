@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santosh Kumar Behera</h1>
+<h1 align="center">Hi , I'm Santosh Kumar Behera</h1>
 <h3 align="center">B.Tech CSE Student  💻  | Aspiring Software Developer  🚀</h3>
 
 <p align="center">
