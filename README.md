@@ -16,7 +16,7 @@
 
 ---
 
-## 🌟 Vision & Interests
+## 🌟 Vision & Interests 
 
 - 🧠 **Core Interests:** Software Development, Problem Solving, Backend Development  
 - 🎯 **Career Goal:** To become a skilled Software Developer by building scalable and impactful real-world applications  
