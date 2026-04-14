@@ -10,7 +10,6 @@
 ## 🚀 About Me
 
 - 👨‍💻 B.Tech Computer Science & Engineering student  
-- 🚀 Currently working on **AI Resume Analyzer & Web Projects**  
 - 🌱 Learning **Python Programming, Data Structures & Backend Development**  
 - 💡 Interested in **Software Development & Problem Solving**
 
