@@ -26,7 +26,8 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,flask,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,flask,mysql,git,github,vscode,vercel" />
+  <img src="https://tiiny.host/favicon.ico" height="48" alt="TiinyHost" />
 </p>
 
 ---
