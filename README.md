@@ -4,8 +4,9 @@
 <p align="center">
   I build real-world software, explore modern technologies, and focus on writing clean, efficient code.
 </p>
-
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=santoshbehera01&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
 ## 🚀 About Me
 
@@ -41,6 +42,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshbehera01&layout=compact&theme=dark"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshbehera01&theme=tokyo-night"/>
 </p>
 
 ---
