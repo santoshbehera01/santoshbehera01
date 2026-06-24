@@ -61,7 +61,7 @@ Developing AI and web based applications while continuously enhancing my softwar
 
 <p align="center">
   <a href="https://santosh-kumar-profile.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-6B7280?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-6B7280?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 ---
