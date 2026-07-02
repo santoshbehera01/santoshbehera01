@@ -84,4 +84,4 @@ Developing AI and web based applications while continuously enhancing my softwar
 
 ---
 
-> "Always learning, building, and improving."
+> "Always learning, building and improving."
