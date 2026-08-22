@@ -39,12 +39,13 @@ Developing AI and web based applications while continuously enhancing my softwar
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santoshbehera01&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshbehera01&theme=dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santoshbehera01&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santoshbehera01&theme=github_dark&utcOffset=5.5" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshbehera01&layout=compact&theme=dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santoshbehera01&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santoshbehera01&theme=github_dark" height="180"/>
 </p>
 
 ---
