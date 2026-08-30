@@ -86,3 +86,17 @@ Developing AI and web based applications while continuously enhancing my softwar
 ---
 
 > "Always learning, building and improving."
+
+---
+
+<!-- ========================================================= -->
+<!--                    FOOTER                                  -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
