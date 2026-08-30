@@ -53,7 +53,7 @@ Developing AI and web based applications while continuously enhancing my softwar
 ## Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santoshbehera01&theme=tokyo-night"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshbehera01&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 
 ---
