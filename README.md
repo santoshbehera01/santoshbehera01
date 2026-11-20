@@ -1,37 +1,38 @@
-<h1 align="center">Hi , I'm Santosh Kumar Behera</h1>
-<h3 align="center">Computer Science Engineering Student 💻</h3>
-<h3 align="center">Python Developer | Software Development | AI & Web Development</h3>
+
+<h1 align="center">Hi, I'm Santosh Kumar Behera</h1>
+<h3 align="center">Computer Science & Engineering Student | EATM '28</h3>
+<h3 align="center">Software Development | Python | Embedded Technologies</h3>
 
 <p align="center">
-Developing AI and web based applications while continuously enhancing my software development skills.
+  Building practical software applications and exploring drone systems and embedded technologies while continuously improving my technical skills.
 </p>
 
 ---
 
 ## About Me
 
-- B.Tech Computer Science & Engineering Student (EATM '28)
-- Passionate about Software Development and Problem Solving
-- Interested in Artificial Intelligence and Web Development
-- Continuously learning and building practical projects
+- 🎓 B.Tech Computer Science & Engineering Student at EATM
+- 🥈 1st Runner-Up at BPUT Hackathon 2026
+- 💻 Campus Mantri at GeeksforGeeks
+- 🚀 Interested in Software Development, Drone Systems, and Embedded Technologies
+- 🛠️ Experienced in building web applications and working with ArduPilot & Mission Planner
 
 ---
 
 ## Current Focus
 
-- Python Development
+- Python & Software Development
 - Data Structures & Algorithms
-- Web Development
-- AI Powered Applications
-- Software Engineering Fundamentals
+- Full-Stack Web Development
+- Drone Systems & Embedded Technologies
+- ArduPilot & Mission Planner Configuration
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,flask,mysql,git,github,vscode,vercel" />
-  <img src="https://tiiny.host/favicon.ico" height="48" alt="TiinyHost" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css,react,flask,mysql,sqlite,firebase,git,github,vscode,vercel" />
 </p>
 
 ---
